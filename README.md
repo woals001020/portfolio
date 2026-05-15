@@ -1,4 +1,4 @@
-##### Contact : woals001020@gmail.com
+##### Contact : suho0209@naver.com
 
 국립부경대학교 전자공학전공을 졸업하고, 반도체 장비 엔지니어를 목표로 준비하고 있습니다.
 
