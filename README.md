@@ -64,3 +64,10 @@
   [TCAD CMOS Inverter 시뮬레이션](./TCAD_CMOS_Inverter)
 
   TCAD Sentaurus로 CMOS Inverter 전 공정을 시뮬레이션하고, n-well 도핑 최적화로 VTC 대칭 동작 검증.
+
+
+- **장비 설계**
+
+  [PECVD 반도체 장비 3D 설계](./PECVD_Equipment)
+
+  실제 PECVD 장비의 2D 도면을 해독하고, SolidWorks로 11개 서브 어셈블리를 3D 모델링하여 전체 장비 Assembly 완성.
